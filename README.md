@@ -7,5 +7,5 @@ Will be moving through the basic shapes (square, triangle, circle, etc) into mor
 
 Implemented so far:
 
-Square
-Circle
+* Square
+* Circle
