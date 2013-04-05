@@ -11,3 +11,4 @@ Implemented so far:
 * Circle
 * Triangle
 * Pentagon
+* Pentagram
