@@ -9,3 +9,5 @@ Implemented so far:
 
 * Square
 * Circle
+* Triangle
+* Pentagon
