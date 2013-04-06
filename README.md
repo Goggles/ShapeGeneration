@@ -12,3 +12,4 @@ Implemented so far:
 * Triangle
 * Pentagon
 * Pentagram
+* Triforce
